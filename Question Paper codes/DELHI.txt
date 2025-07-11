@@ -1,5 +1,0 @@
-Hello world
-D---line
-Python programming language
-D---lines
-M----line

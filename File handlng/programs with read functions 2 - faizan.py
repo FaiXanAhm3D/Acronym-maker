@@ -1,5 +1,0 @@
-f=open('faizan.txt','r')
-st=f.readlines()
-size2=len(st)
-print('size=',size2)
-f.close()

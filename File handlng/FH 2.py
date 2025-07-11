@@ -1,6 +1,0 @@
-file=open('FH2.txt','w')
-file.write("This is python file handling ")
-file.write("Writing data using write() fucntion \n")
-file.write("Data written successfully")
-print("DONE")
-file.close()
