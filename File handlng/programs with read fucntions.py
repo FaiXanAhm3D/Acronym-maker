@@ -1,0 +1,5 @@
+f=open('faizan.txt','r')
+s=f.read()
+size=len(s)
+print('size =',size)
+f.close()

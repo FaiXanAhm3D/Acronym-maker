@@ -1,0 +1,2 @@
+This is python file handling Writing data using write() fucntion 
+Data written successfully

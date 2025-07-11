@@ -1,0 +1,11 @@
+n=int(input("How many number: "))
+first=0
+second=1
+i=3
+print(first,second,end=" ")
+while i<=n:
+    third=first+second
+    print(third,end=" ")
+    first=second
+    second=third
+    i=i+1
